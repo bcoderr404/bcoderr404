@@ -9,7 +9,7 @@
 > neofetch
 
 ```
-<img src="https://media.discordapp.net/attachments/902941334288097280/910245745439957002/3d752e372b97b592c3abea2374bdf9be.gif" alt="nanosuckysuckyonetimeonetime.php.png" width="250" height="260">
+<img src="https://images-ext-1.discordapp.net/external/i7Ok_QiuRNYO2wsYYOllplVYPoKSQ3j9DzgMLDo7HA0/%3Fc%3DVjFfZGlzY29yZA/https/media.tenor.com/3B2oikzePGoAAAPo/komi-komisan.mp4" alt="nanosuckysuckyonetimeonetime.php.png" width="250" height="260">
 
 ```py
 
@@ -49,7 +49,7 @@ Languages  :  Python
 
 
 - <p align="center"><img align="center" alt="Kyoto-yoda" src="https://cdn.discordapp.com/emojis/889650324590198844.gif?size=40">  
-- <p align="center"> Hi, I’m @Sakura
+- <p align="center"> Hi, I’m @Bcoder404
 
 -----------------
 

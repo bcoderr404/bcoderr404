@@ -9,7 +9,7 @@
 > neofetch
 
 ```
-<img src="https://images-ext-1.discordapp.net/external/i7Ok_QiuRNYO2wsYYOllplVYPoKSQ3j9DzgMLDo7HA0/%3Fc%3DVjFfZGlzY29yZA/https/media.tenor.com/3B2oikzePGoAAAPo/komi-komisan.mp4" alt="nanosuckysuckyonetimeonetime.php.png" width="250" height="260">
+<img src="https://media.discordapp.net/attachments/921905168969265192/952277756278898709/0rzzRw6.gif" alt="nanosuckysuckyonetimeonetime.php.png" width="250" height="260">
 
 ```py
 
